@@ -2,6 +2,8 @@
 
 Simple email subscribe form component built with Typescript, NextJS, Chakra UI, and SendGrid.
 
+![demo](https://user-images.githubusercontent.com/63591760/215101278-40ffa975-1a82-4a83-98a2-d3901bf51f2a.gif)
+
 ## Getting Started
 
 ### 1. Clone the repo and install dependencies
